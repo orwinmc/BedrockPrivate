@@ -1,0 +1,4 @@
+.:53 {
+    rewrite name exact geo.hivebedrock.network <INSTANCE IP ADDRESS>
+    forward . 1.1.1.1:53
+}
