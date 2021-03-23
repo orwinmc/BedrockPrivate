@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "disabled experiment behaviors",
+        "name": "disabled experiment behaviors",
+        "uuid": "EF052F16-D6A5-4B4B-A1D3-644091DDAFDD",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "disabled experiment behaviors",
+            "type": "data",
+            "uuid": "40CF6000-A0D1-4008-A9C8-62EF932CC324",
+            "version": [0, 0, 1]
+        }
+    ]
+}

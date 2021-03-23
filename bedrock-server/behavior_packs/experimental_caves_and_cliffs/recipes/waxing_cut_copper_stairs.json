@@ -1,0 +1,27 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:waxing_cut_copper_stairs"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:cut_copper_stairs:0"
+            },
+            "B": {
+                "item": "minecraft:honeycomb"
+            }
+        },
+        "result": {
+            "item": "minecraft:cut_copper_stairs:4",
+            "count": 1
+        },
+        "priority": 1
+    }
+}

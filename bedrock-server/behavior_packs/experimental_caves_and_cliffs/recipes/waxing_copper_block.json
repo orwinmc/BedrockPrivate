@@ -1,0 +1,27 @@
+{
+    "format_version": "1.16",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:waxing_copper_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BA"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:copper_block:0"
+            },
+            "B": {
+                "item": "minecraft:honeycomb"
+            }
+        },
+        "result": {
+            "item": "minecraft:copper_block:4",
+            "count": 1
+        },
+        "priority": 1
+    }
+}
